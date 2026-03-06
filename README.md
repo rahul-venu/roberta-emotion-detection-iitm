@@ -26,7 +26,7 @@ Output: Fear, Sadness
 ```
 # 🌐 Live App (Streamlit)
 ```
-https://your-streamlit-app-url
+https://text-emotion-finder.streamlit.app/
 ```
 # 🏗 Project Structure
 
@@ -62,9 +62,11 @@ emotion-detection-project/
 # ☁️ Model Storage
 
 The trained model weights are hosted externally (cloud storage) to keep the Git repository lightweight.
-HuggingFace Hub 
+HuggingFace Hub 🤗
 
-(add link here)
+```
+https://huggingface.co/rahul-venu/Emotion-detect
+```
 
 The model is downloaded at runtime inside the Streamlit app.
 
