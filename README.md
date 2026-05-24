@@ -126,6 +126,7 @@ streamlit run app.py
 See requirements.txt for exact versions.
 
 # 🌍 Deployment
+
 * Streamlit Cloud Deployment Steps
 
 * Push code to GitHub
@@ -177,6 +178,19 @@ See requirements.txt for exact versions.
 * Streamlit deployment ready
 
 * Cloud-based model hosting
+  
+# 🔗 Links
+
+* 🔗 **Competition Link:** [Kaggle Competition](https://www.kaggle.com/competitions/2025-sep-dl-gen-ai-project)
+
+
+
+
+
+
+
+
+
 
 
 
