@@ -181,7 +181,7 @@ See requirements.txt for exact versions.
   
 # 🔗 Links
 
-Run app : https://text-emotion-finder.streamlit.app/
+* Run app 🚀 : https://text-emotion-finder.streamlit.app/
 
 * 🔗 **Competition Link:** [Kaggle Competition](https://www.kaggle.com/competitions/2025-sep-dl-gen-ai-project)
 
